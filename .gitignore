@@ -1,0 +1,15 @@
+.venv/
+.env
+.env.*
+!.env.example
+.state/
+*.session*
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+build/
+dist/
+*.log
+/lmstudio/mcp.json
